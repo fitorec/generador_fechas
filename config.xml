@@ -12,7 +12,6 @@
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <icon src="icon.png" />
-    <access origin="*" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
